@@ -883,7 +883,7 @@ Free to use, modify, and learn from.
 
 # Author
 
-Malc Neural Network Library
+# StarDog555
 
 A pure C neural network implementation built for learning how machine learning works internally.
 
